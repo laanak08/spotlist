@@ -14,8 +14,6 @@ Navigate into project.
 
 ## Quick Start
 
-
-
 To get started, install spotlist and create an app on https://developers.spotify.com/.
 Add your new ID and SECRET to your environment:
 
@@ -25,6 +23,7 @@ Add your new ID and SECRET to your environment:
     
     // on Windows, use `SET` instead of `export`
 
+    spotlist make-playlist --name $SOME_NAME  --tracklist some/path/to/tracklist.csv
 ## Reporting Issues
 
 If you have suggestions, bugs or other issues specific to this tool, file them [here](https://github.com/laanak08/spotlist/issues). Or just send me a pull request.
