@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="spotlist",  # Replace with your own username
+    name="spotlist",
     version="0.0.1",
     author="Marcelle Bonterre",
     author_email="laanak@gmail.com",
